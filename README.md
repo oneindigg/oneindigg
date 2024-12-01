@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Nikesh Katuwal!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -38,9 +38,9 @@
 ---
 
 ### 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=oneindigg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=oneindigg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oneindigg&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oneindigg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oneindigg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oneindigg&icon=0&color=0)](https://visitcount.itsvg.in)
