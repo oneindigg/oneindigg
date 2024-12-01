@@ -12,7 +12,7 @@
 ---
 
 ### 🌟 About Me
-- 🚀 **I build web applications that people love to use.**
+- 🚀 **Empowering businesses by crafting web applications tailored to their needs.**
 - 💻 Passionate about **Software Engineering**.
 - 📖 Always learning new technologies and best practices.
 
