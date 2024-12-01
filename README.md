@@ -38,8 +38,8 @@
 ---
 
 ### 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=oneindigg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oneindigg&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=oneindigg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=oneindigg&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oneindigg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -52,7 +52,6 @@
 ### 🎨 Fun Extras
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oneindigg&theme=radical&column=7" alt="Trophies">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical" alt="Quote">
 </p>
 
 ---
