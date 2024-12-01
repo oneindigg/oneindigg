@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Nikesh Katuwal!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -38,24 +38,13 @@
 ---
 
 ### 🏆 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oneindigg&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oneindigg&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneindigg&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-### 📌 Projects
-- 🛠️ **[Project Name](https://github.com/yourusername/project-link):** Brief description of the project.
-- 🌟 **[Project Name](https://github.com/yourusername/project-link):** Brief description of the project.
-- 💡 **[Project Name](https://github.com/yourusername/project-link):** Brief description of the project.
+![oneindigg's Stats](https://github-readme-stats.vercel.app/api?username=oneindigg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
 ### 🎨 Fun Extras
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&column=7" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=oneindigg&theme=radical&column=7" alt="Trophies">
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical" alt="Quote">
 </p>
 
