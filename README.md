@@ -37,13 +37,4 @@
 
 ---
 
----
-
-### 🎨 Fun Extras
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oneindigg&theme=radical&column=7" alt="Trophies">
-</p>
-
----
-
 <p align="center">💡 *Let's create something amazing together!*</p>
